@@ -40,7 +40,7 @@ Each agent operates independently within the environment, making decisions based
 1. Install [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) if you haven't already.
 2. Install [Gradle](https://gradle.org/install/) if you haven't already.
 3. Install Jason by following the instructions on the [Jason website](https://github.com/jason-lang/jason/releases).
-4. Clone the project repository from [Haji Akhundzada](https://github.com/haJye/CaptureTheFlag).
+4. Clone the project repository from [GitHub](https://github.com/haJye/CaptureTheFlag).
 5. Navigate to the project directory in your terminal.
 6. Run the following command to start the simulation:
    ```bash
