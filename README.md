@@ -48,7 +48,7 @@ Each agent operates independently within the environment, making decisions based
 
 ## Contributors
 
-- [Haji Akhundzada]
+- [Haji Akhundzada](https://github.com/haJye)
 
 
 
