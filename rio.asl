@@ -73,6 +73,3 @@
 +myPos(MYX,MYY): randomTarget(MYX,MYY) <- -randomTarget(MYX,MYY);!move.
 +myPos(MYX,MYY): randomTarget(X,Y) <- !move.
 
-
-
-+team(red).
