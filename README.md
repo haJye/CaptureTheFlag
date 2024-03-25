@@ -31,7 +31,7 @@ Each agent operates independently within the environment, making decisions based
 
 ## How to Run the Project
 
-1. Clone the project repository from [insert repository link].
+1. Clone the project repository from [https://github.com/haJye/CaptureTheFlag].
 2. Install any dependencies required by the project.
 3. Run the main script or executable file to start the simulation.
 4. Monitor the game progress through the provided interface or console output.
