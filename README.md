@@ -29,13 +29,26 @@ Each agent operates independently within the environment, making decisions based
 3. Agents can also defend their flag by intercepting and tagging opponents who attempt to capture it.
 4. The game ends when one team successfully captures the flag of the opposing team.
 
+
+## Implementation Details
+
+- The project is implemented using [Jason](http://jason.sourceforge.net/wp/) (Java-based AgentSpeak interpreter).
+- You need to have Java 17 and Gradle installed to run the project.
+
 ## How to Run the Project
 
-1. Clone the project repository from [https://github.com/haJye/CaptureTheFlag].
-2. Install any dependencies required by the project.
-3. Run the main script or executable file to start the simulation.
-4. Monitor the game progress through the provided interface or console output.
+1. Install [Java 17](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) if you haven't already.
+2. Install [Gradle](https://gradle.org/install/) if you haven't already.
+3. Install Jason by following the instructions on the [Jason website](http://jason.sourceforge.net/wp/).
+4. Clone the project repository from [https://github.com/haJye/CaptureTheFlag].
+5. Navigate to the project directory in your terminal.
+6. Run the following command to start the simulation:
+   ```bash
+   jason ctf.mas2j
 
 ## Contributors
 
 - [Haji Akhundzada]
+
+
+
